@@ -1,6 +1,7 @@
 beewatch
 =========
-BeeconJS Sample Code.
+
+BeeconJS Sample Code - Android ware app powered by BeeconJS 
 
 ## Installation
 
